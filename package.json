@@ -1,0 +1,23 @@
+{
+  "name": "end-to-end-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwwgh555/end-to-end-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwwgh555/end-to-end-github-actions/issues"
+  },
+  "homepage": "https://github.com/hwwgh555/end-to-end-github-actions#readme",
+  "devDependencies": {
+    "moment": "^2.29.1"
+  }
+}
